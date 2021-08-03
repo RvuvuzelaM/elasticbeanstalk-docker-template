@@ -1,0 +1,10 @@
+variable "db_username" {}
+variable "db_password" {}
+variable "jwt_secret_passphrase" {}
+variable "jwt_secret_key" {}
+variable "jwt_public_key" {}
+variable "mailer_mail" {}
+variable "mailer_turned_on" {}
+variable "aws_secret_access_key" {}
+variable "aws_access_key" {}
+variable "aws_default_region" {}
